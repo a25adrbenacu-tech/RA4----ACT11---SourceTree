@@ -39,11 +39,11 @@ public class BenitezAdrian310 {
          System.out.printf("Quin es el cinque numero?\n");
          n5 = input.nextInt();
          
-         n1 = n1*n1;
-         n2 = n2/n2;
-         n3 = n3/n3;
-         n4 = n4*n4;
-         n5 = n5*n5;
+         n1 = n1+n1;
+         n2 = n2+n2;
+         n3 = n3+n3;
+         n4 = n4+n4;
+         n5 = n5+n5;
          
          if (((n1-n2) < (n1-n3)) && ((n1-n2) < (n1-n4)) && ((n1-n2) < (n1-n5))){
              n2 = n2/n2;
