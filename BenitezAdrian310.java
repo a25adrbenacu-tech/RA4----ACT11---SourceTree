@@ -10,14 +10,6 @@ import java.util.Scanner;
  */
 public class BenitezAdrian310 {
 
-
-
-
-
-
-
-
-
     /**
      * @param args the command line arguments
      */
