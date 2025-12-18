@@ -14,6 +14,21 @@ public class BenitezAdrian310 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
+
+
+
+
+        
+        for (int i = 0; i< 100; i++){
+            System.out.printf("por favor alvert no toques main\n ");
+    
+    
+        }
+
+
+
+        
         // TODO code application logic here
         Scanner input = new Scanner(System.in);
         int n1, n2, n3, n4, n5;
@@ -49,9 +64,11 @@ public class BenitezAdrian310 {
          }else if (((n1-n5) < (n1-n2)) && ((n1-n5) < (n1-n4)) && ((n1-n5) < (n1-n2)))
              n5 = n5/n5;
              System.out.printf("%d Es el valor mes proper\n", n5);
-             
-             
 
+
+
+             
+             
 
 
          }
