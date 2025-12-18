@@ -34,9 +34,6 @@ public class BenitezAdrian310 {
         int n1, n2, n3, n4, n5;
          System.out.printf("Quin es el primer numero?\n");
          n1 = input.nextInt();
-        
-
-
          System.out.printf("Quin es el segon numero?\n");
          n2 = input.nextInt();
          System.out.printf("Quin es el tercer numero?\n");
@@ -46,11 +43,19 @@ public class BenitezAdrian310 {
          System.out.printf("Quin es el cinque numero?\n");
          n5 = input.nextInt();
          
+<<<<<<< HEAD
          n1 = n1+n1;
          n2 = n2+n2;
          n3 = n3+n3;
          n4 = n4+n4;
          n5 = n5+n5;
+=======
+         n1 = n1*n1;
+         n2 = n2*n2;
+         n3 = n3*n3;
+         n4 = n4*n4;
+         n5 = n5*n5;
+>>>>>>> origin/Adrian-Benitez
          
          if (((n1-n2) < (n1-n3)) && ((n1-n2) < (n1-n4)) && ((n1-n2) < (n1-n5))){
              n2 = n2/n2;
@@ -64,6 +69,7 @@ public class BenitezAdrian310 {
          }else if (((n1-n5) < (n1-n2)) && ((n1-n5) < (n1-n4)) && ((n1-n5) < (n1-n2)))
              n5 = n5/n5;
              System.out.printf("%d Es el valor mes proper\n", n5);
+<<<<<<< HEAD
 
 
 
@@ -71,6 +77,10 @@ public class BenitezAdrian310 {
              
 
 
+=======
+             
+             
+>>>>>>> origin/Adrian-Benitez
          }
          
     }
