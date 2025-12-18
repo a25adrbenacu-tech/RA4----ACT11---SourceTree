@@ -27,6 +27,9 @@ public class BenitezAdrian310 {
         int n1, n2, n3, n4, n5;
          System.out.printf("Quin es el primer numero?\n");
          n1 = input.nextInt();
+        
+
+
          System.out.printf("Quin es el segon numero?\n");
          n2 = input.nextInt();
          System.out.printf("Quin es el tercer numero?\n");
@@ -37,8 +40,8 @@ public class BenitezAdrian310 {
          n5 = input.nextInt();
          
          n1 = n1*n1;
-         n2 = n2*n2;
-         n3 = n3*n3;
+         n2 = n2/n2;
+         n3 = n3/n3;
          n4 = n4*n4;
          n5 = n5*n5;
          
@@ -56,6 +59,9 @@ public class BenitezAdrian310 {
              System.out.printf("%d Es el valor mes proper\n", n5);
              
              
+
+
+
          }
          
     }
