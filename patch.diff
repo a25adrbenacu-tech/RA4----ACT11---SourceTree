@@ -1,0 +1,31 @@
+From c90adff0b13c9cfe3eca3487f208b6639216f69d Mon Sep 17 00:00:00 2001
+From: cerman26 <albertgilhernandez@gmail.com>
+Date: Thu, 18 Dec 2025 15:54:17 +0100
+Subject: [PATCH] lo cambie
+
+---
+ BenitezAdrian310.java | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+diff --git a/BenitezAdrian310.java b/BenitezAdrian310.java
+index 23d4d13..877bf62 100644
+--- a/BenitezAdrian310.java
++++ b/BenitezAdrian310.java
+@@ -10,6 +10,14 @@ import java.util.Scanner;
+  */
+ public class BenitezAdrian310 {
+ 
++
++
++
++
++
++
++
++
+     /**
+      * @param args the command line arguments
+      */
+-- 
+2.42.0.windows.2
+
