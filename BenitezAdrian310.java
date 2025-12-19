@@ -6,7 +6,7 @@ package benitezadrian3.pkg10;
 import java.util.Scanner;
 /**
  *
- * @author a25adrbenacu_inspedr
+ * @author a25adrbenacu_inspedr + Roberto Adrian Hernando Tamayo
  */
 public class BenitezAdrian310 {
 
